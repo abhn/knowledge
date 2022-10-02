@@ -1,1 +1,6 @@
-### My mental garden
+---
+title: My mental garden
+slug: /
+---
+
+Here be dragons
