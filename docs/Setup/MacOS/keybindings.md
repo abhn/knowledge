@@ -7,4 +7,6 @@ title: Various keybindings
 - Music controls - Capslock + M
 - Firefox search through open tabs - Capslock + T
 - Firefox search through history - Capslock + H
-- `kp` runs the script to add, commit and push changes to knowledge repository
+
+- `kedit` runs script to open docs folder of this repo in VSCode
+- `kpush` runs the script to add, commit and push changes to knowledge repository
