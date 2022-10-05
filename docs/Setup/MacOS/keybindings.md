@@ -1,6 +1,4 @@
----
-title: Various keybindings
----
+# Various keybindings
 
 - Capslock (hold) is mapped to ^ + Cmd
 - Music controls - Capslock + M
