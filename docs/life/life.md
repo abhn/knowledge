@@ -13,3 +13,7 @@
 [how to do nothing](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb)
 
 [Experts From A World That No Longer Exists · Collaborative Fund](https://collabfund.com/blog/experts/)
+
+[Little Dieter Needs To Fly - Werner Herzog (1997)](https://www.youtube.com/watch?v=zcB1s7bF3TY)
+
+[Hypernormalization](https://www.youtube.com/watch?v=-fny99f8amM)
