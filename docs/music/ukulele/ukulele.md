@@ -19,7 +19,7 @@ G|-----------------|-2----------|-1------1---|-2----------|-------------|-2-----
 - [Coldplay yellow](https://www.youtube.com/watch?v=DCV6M-E481s)
 - [Somebody that I used to know - Gotye](https://www.youtube.com/watch?v=Rw8MjGO0uy0)
 - [Arctic Monkeys - Why'd You Only Call Me When You're High](https://www.youtube.com/watch?v=UU2OysNyvos)
-- [21 Guns - Green Day](../,../../../../static/documents/21_Guns_Green_Day.pdf)
+- [21 Guns - Green Day](./../../../static/documents/21_Guns_Green_Day.pdf)
 - [Beirut - Nantes](https://tabs.ultimate-guitar.com/tab/beirut/nantes-ukulele-1305496)
 - [SPIRITS - The Strumbellas](https://ukutabs.com/t/the-strumbellas/spirits/)
 - [Zombie - The Cranberries](./../../../static/documents/Zombie.pdf)

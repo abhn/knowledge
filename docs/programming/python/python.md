@@ -8,7 +8,7 @@
 
 - [Learn IP Address Concepts With Python's ipaddress Module – Real Python](https://realpython.com/python-ipaddress-module/)
 
-- [Python - data science cheat sheet](../../../static/img/docs/python-data-science-cheat-sheet.png)
+- [Python - data science cheat sheet](./../../../static/img/docs/datascience-cheat-sheet.png)
 
 - [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/)
 
