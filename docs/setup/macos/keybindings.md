@@ -14,7 +14,7 @@
 
 ### Knowledge Wiki
 - `kedit` runs script to open docs folder of this repo in VSCode
-- `kpush` runs the script to add, commit and push changes to knowledge repository
+- `push` runs the script to add, commit and push changes to knowledge repository
 
 ### Obsidian
 - `oo <vault-name>` open the vault in Obsidian to edit
