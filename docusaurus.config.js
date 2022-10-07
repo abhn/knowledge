@@ -74,6 +74,15 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      algolia: {
+        appId: '4KCPAVZ3RV',
+        apiKey: 'e84ce8b185280023ca535905b5ae9c58',
+        indexName: 'KnowledgeWikiSearchData',
+        contextualSearch: true,
+        externalUrlRegex: 'external\\.com|domain\\.com',
+        searchParameters: {},
+        searchPagePath: 'search',
+      },
     }),
 };
 
