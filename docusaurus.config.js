@@ -59,9 +59,20 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/abhn/knowledge',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://github.com/abhn",
+            position: "right",
+            label: "🐙",
+          },
+          {
+            href: "https://www.nagekar.com",
+            position: "right",
+            label: "🏡",
+          },
+          {
+            href: "https://github.com/abhn/knowledge",
+            position: "right",
+            className: "header-github-link",
+            "aria-label": "GitHub repository",
           },
         ],
       },
