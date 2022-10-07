@@ -1,7 +1,8 @@
 ---
-title: My Digital Garden
 slug: /
 ---
+
+# My Digital Garden
 
 Describing what I'm trying to do here is a bit tricky. 
 
