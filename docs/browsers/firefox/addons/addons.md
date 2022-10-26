@@ -65,3 +65,52 @@ Remember
 APIs of interest
 - storage - store state of the extension when idling
 - alarms - timeouts don't work in non-persistent BGS, so use alarms to get a callback after a specific interval of time
+
+### Downloads
+
+`browser.downloads.download({ url: '<url>'})` API can be used to download a file to user's default download location.
+
+### Native messaging
+
+manifest.json
+```json
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "ping_pong@example.org",
+      "strict_min_version": "50.0"
+    }
+  },
+```
+
+app.json
+```json
+{
+  "name": "ping_pong",
+  "description": "Example host for native messaging",
+  "path": "/path/to/native-messaging/app/ping_pong.py",
+  "type": "stdio",
+  "allowed_extensions": [ "ping_pong@example.org" ]
+}
+```
+
+Note that the `browser_specific_settings.gecko.id` matches the `allowed_extensions`
+
+### Addons user interface
+- [MDN docs for addon user interfaces](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface)
+
+Types of user interfaces supported in Firefox
+1. Toolbar button (AKA browser action)
+2. Toolbar button with popup (lastpass)
+3. Address bar button (trello add to board button) (page action)
+4. Address bar button with popup (containers)
+5. Context menu (right click on page) (translate)
+6. Sidebar (tree style tabs)
+7. Options page (preferences of extensions)
+8. Extensions pages (lastpass vault)
+9. Address bar suggestions
+10. Dev tools panel (React dev tools)
+
+### Links
+- [Web extensions polyfill github repo](https://github.com/mozilla/webextension-polyfill)
+- [chrome incompatibilities with webextension standard](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Chrome_incompatibilities)
+- [web extensions examples repository](https://github.com/mdn/webextensions-examples)
