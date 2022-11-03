@@ -7,3 +7,5 @@
 - [Getting Started in Information Security - start.me](https://start.me/p/ADwq1n/getting-started-in-information-security)
 
 - [Career Advice: Be Confidently Uncertain - Earthly Blog](https://earthly.dev/blog/confidently-uncertain/)
+
+- [80,000 hours](https://80000hours.org/start-here/)
