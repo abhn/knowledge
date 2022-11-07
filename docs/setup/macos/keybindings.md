@@ -20,3 +20,9 @@
 - `oo <vault-name>` open the vault in Obsidian to edit
 - `os <search-term>` OR `Caps Lock + F` search all vaults for the markdown file
 - `on /path/to/new/note/` create a new note file
+
+### Alfred
+
+`fx` - Firefox default (personal use)
+`dx` - Firefox developer exition (work use)
+`tt` - TickTick

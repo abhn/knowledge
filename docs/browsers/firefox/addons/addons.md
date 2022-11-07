@@ -35,7 +35,7 @@ console.log(foo); // undefined
 
 
 ### Communicating between **background script** and **content script**
-- One off messages using the `browser.runtime.sendMessage` and `browser.runtime.onMessage` APIs
+- One off messages using the `browser.runtime.sendMessage` (CS to BS) and `browser.runtime.onMessage` (CS and BS) APIs. To send a message from BS to CS, use `browser.tabs.sendMessage(tabId, message)` API
 - Connection based using `browser.runtime.connect` => `postMessage` and `browser.runtime.onConnect` => `onMessage` APIs
 
 ### Communicating between content script and web page
