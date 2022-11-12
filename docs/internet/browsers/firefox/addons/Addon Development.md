@@ -114,3 +114,10 @@ Types of user interfaces supported in Firefox
 - [Web extensions polyfill github repo](https://github.com/mozilla/webextension-polyfill)
 - [chrome incompatibilities with webextension standard](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Chrome_incompatibilities)
 - [web extensions examples repository](https://github.com/mdn/webextensions-examples)
+
+### `web-ext` cli tool
+Install for handly functions when developing addons `npm install -g web-ext`
+
+`web-ext lint` to do a dry run lint
+`web-ext run` inside the extension directory - install the addon in a new firefox instance for testing
+`web-ext run --firefox=/path/to/firefox-bin` to specify which firefox to use
