@@ -1,8 +1,8 @@
 ---
 slug: /
-tags:
-- introductionpage
 ---
+
+#introductionpage 
 
 # My Digital Garden
 
